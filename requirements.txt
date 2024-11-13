@@ -5,3 +5,14 @@ passlib[bcrypt]
 pydantic
 pytest
 python-dotenv
+langchain==0.3.7
+langchain-community==0.3.7
+langgraph==0.2.46
+langserve[all]==0.3.0
+langchain-cli==0.0.31
+langchain_chroma==0.1.4
+langchain_ollama==0.2.0
+langchain-text-splitters~=0.3.2
+beautifulsoup4==4.12.3
+build==0.10.0
+requests-toolbelt==0.9.1
